@@ -1,0 +1,62 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Battleship (Kotlin)/*
+!/Battleship (Kotlin)/task/
+/Battleship (Kotlin)/task/*
+!/Battleship (Kotlin)/task/src
+
+# Project exclude paths
+/Topics/Aggregate operations on collections/Hacking the Matrix/out/
+/Topics/Aggregate operations on collections/Hacking the Matrix/out/production/classes/
+/Topics/Class delegation/System of bonuses/out/
+/Topics/Class delegation/System of bonuses/out/production/classes/
+/Topics/Custom threads/Starting multiple threads - 1/out/
+/Topics/Custom threads/Starting multiple threads - 1/out/production/classes/
+/Topics/Delegate/Hello, Delegate  Or are you Kotlin/out/
+/Topics/Delegate/Hello, Delegate  Or are you Kotlin/out/production/classes/
+/Topics/Exceptions in threads/Catching an exception/out/
+/Topics/Exceptions in threads/Catching an exception/out/production/classes/
+/Topics/Extension functions/Delegation/out/
+/Topics/Extension functions/Delegation/out/production/classes/
+/Topics/Iterators/Keep hyper/out/
+/Topics/Iterators/Keep hyper/out/production/classes/
+/Topics/Iterators/Roller coasters/out/
+/Topics/Iterators/Roller coasters/out/production/classes/
+/Topics/Mapping transformation/Harry and the Spell Power/out/
+/Topics/Mapping transformation/Harry and the Spell Power/out/production/classes/
+/Topics/Mapping transformation/The secret is inside the spell/out/
+/Topics/Mapping transformation/The secret is inside the spell/out/production/classes/
+/Topics/Nested and inner classes/New Inner class/out/
+/Topics/Nested and inner classes/New Inner class/out/production/classes/
+/Topics/Retrieve collection parts/Application/out/
+/Topics/Retrieve collection parts/Application/out/production/classes/
+/Topics/Retrieve collection parts/Harry and the Spell Power/out/
+/Topics/Retrieve collection parts/Harry and the Spell Power/out/production/classes/
+/Topics/Scope functions  apply and also/Map of buttons/out/
+/Topics/Scope functions  apply and also/Map of buttons/out/production/classes/
+/Topics/Scope functions  let, run, and with/Chain of functions/out/
+/Topics/Scope functions  let, run, and with/Chain of functions/out/production/classes/
+/Topics/String formatting/Dynamic Double formatting/out/
+/Topics/String formatting/Dynamic Double formatting/out/production/classes/
+/Topics/Test predicates  checking elements in collection/A secret should always be a secret/out/
+/Topics/Test predicates  checking elements in collection/A secret should always be a secret/out/production/classes/
+/Topics/Test predicates  checking elements in collection/The secret is in the length/out/
+/Topics/Test predicates  checking elements in collection/The secret is in the length/out/production/classes/
+/Topics/Thread as object/Getting the current thread info/out/
+/Topics/Thread as object/Getting the current thread info/out/production/classes/
+/Topics/Thread management/Calculate the number of distinct characters/out/
+/Topics/Thread management/Calculate the number of distinct characters/out/production/classes/
+/Topics/Thread management/Summing ranges with threads/out/
+/Topics/Thread management/Summing ranges with threads/out/production/classes/
+/Topics/Thread management/Workers in programs/out/
+/Topics/Thread management/Workers in programs/out/production/classes/
